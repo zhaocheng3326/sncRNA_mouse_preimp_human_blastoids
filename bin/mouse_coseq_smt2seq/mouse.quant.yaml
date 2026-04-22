@@ -1,0 +1,8 @@
+RD: /home/chenzh/My_project/mouse_smallseq_preimp/tmp_data/mouse_smt2seq/
+SampleName_file: /home/chenzh/My_project/mouse_smallseq_preimp/bin/mouse_smt2seq/Sample.name.file
+merge_src: /home/chenzh/My_project/Extra_smncRNA/src/merge_rsem_data.py
+GTF: /home/chenzh/Genome_new/Mouse/RefSeq/refdata-gex-mm10-2020-A/genes/genes.gtf
+GD_star: /home/chenzh/Genome_new/Mouse/RefSeq/refdata-gex-mm10-2020-A/star/
+RS_GF: /home/chenzh/Genome_new/Mouse/RefSeq/refdata-gex-mm10-2020-A/rsem
+
+

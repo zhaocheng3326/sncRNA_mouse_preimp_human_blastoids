@@ -1,0 +1,8 @@
+RD: /home/chenzh/My_project/mouse_smallseq_preimp/tmp_data/HB_coseq_smt2/
+SampleName_file: /home/chenzh/My_project/mouse_smallseq_preimp/bin/HB_ME_July_2025/extra.HB_smt2/extra.HB_smt2.Sample.ID
+merge_src: /home/chenzh/My_project/JP_project/src/merge_rsem_data.py
+GTF: /home/chenzh/Genome_new/Human/RefSeq/clean_chr_refdata/genes/genes.gtf
+GD_star: /home/chenzh/Genome_new/Human/RefSeq/clean_chr_refdata/star/
+RS_GF: /home/chenzh/Genome_new/Human/RefSeq/clean_chr_refdata/rsem/rsem
+
+
